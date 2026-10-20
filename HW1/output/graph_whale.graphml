@@ -1,0 +1,614 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d1" for="edge" attr.name="weight" attr.type="long" />
+  <key id="d0" for="edge" attr.name="dep" attr.type="string" />
+  <graph edgedefault="directed">
+    <node id="whale" />
+    <node id="sperm" />
+    <node id="white" />
+    <node id="right" />
+    <node id="great" />
+    <node id="of" />
+    <node id="greenland" />
+    <node id="other" />
+    <node id="in" />
+    <node id="dead" />
+    <node id="one" />
+    <node id="large" />
+    <node id="stricken" />
+    <node id="with" />
+    <node id="drug" />
+    <node id="head" />
+    <node id="particular" />
+    <node id="on" />
+    <node id="small" />
+    <node id="as" />
+    <node id="such" />
+    <node id="wondrous" />
+    <node id="sized" />
+    <node id="live" />
+    <node id="more" />
+    <node id="oh" />
+    <node id="same" />
+    <node id="his" />
+    <node id="three" />
+    <node id="two" />
+    <node id="my" />
+    <node id="blasted" />
+    <node id="folio" />
+    <node id="mighty" />
+    <node id="like" />
+    <node id="dat" />
+    <node id="himself" />
+    <node id="first" />
+    <node id="bone" />
+    <node id="ship" />
+    <node id="grinning" />
+    <node id="all" />
+    <node id="thou" />
+    <node id="pursue" />
+    <node id="whalebone" />
+    <node id="hat" />
+    <node id="four" />
+    <node id="fly" />
+    <node id="young" />
+    <node id="grow" />
+    <node id="full" />
+    <node id="noble" />
+    <node id="magnitude" />
+    <node id="sea" />
+    <node id="very" />
+    <node id="long" />
+    <node id="grey" />
+    <node id="chapter" />
+    <node id="patron" />
+    <node id="outskirt" />
+    <node id="security" />
+    <node id="by" />
+    <node id="systematically" />
+    <node id="who" />
+    <node id="dish" />
+    <node id="bigness" />
+    <node id="course" />
+    <node id="good" />
+    <node id="anvil" />
+    <node id="larboard" />
+    <node id="fall" />
+    <node id="living" />
+    <node id="hour" />
+    <node id="day" />
+    <node id="length" />
+    <node id="foot" />
+    <node id="stubb" />
+    <node id="specie" />
+    <node id="dried" />
+    <node id="coast" />
+    <node id="banks" />
+    <node id="fisherman" />
+    <node id="whaleman" />
+    <node id="kind" />
+    <node id="pike" />
+    <node id="baleen" />
+    <node id="track" />
+    <node id="americans" />
+    <node id="english" />
+    <node id="herd" />
+    <node id="man" />
+    <node id="to" />
+    <node id="nearly" />
+    <node id="leeward" />
+    <node id="windward" />
+    <node id="sibbald" />
+    <node id="self" />
+    <node id="order" />
+    <node id="mediterranean" />
+    <node id="providential" />
+    <node id="expression" />
+    <node id="attitude" />
+    <node id="hump" />
+    <node id="side" />
+    <node id="puncture" />
+    <node id="brow" />
+    <node id="almost" />
+    <node id="though" />
+    <node id="portly" />
+    <node id="ocean" />
+    <node id="question" />
+    <edge source="whale" target="sperm">
+      <data key="d0">compound</data>
+      <data key="d1">181</data>
+    </edge>
+    <edge source="whale" target="white">
+      <data key="d0">amod</data>
+      <data key="d1">30</data>
+    </edge>
+    <edge source="whale" target="right">
+      <data key="d0">amod</data>
+      <data key="d1">19</data>
+    </edge>
+    <edge source="whale" target="great">
+      <data key="d0">amod</data>
+      <data key="d1">22</data>
+    </edge>
+    <edge source="whale" target="of">
+      <data key="d0">prep</data>
+      <data key="d1">18</data>
+    </edge>
+    <edge source="whale" target="greenland">
+      <data key="d0">compound</data>
+      <data key="d1">15</data>
+    </edge>
+    <edge source="whale" target="other">
+      <data key="d0">amod</data>
+      <data key="d1">13</data>
+    </edge>
+    <edge source="whale" target="in">
+      <data key="d0">prep</data>
+      <data key="d1">13</data>
+    </edge>
+    <edge source="whale" target="dead">
+      <data key="d0">amod</data>
+      <data key="d1">10</data>
+    </edge>
+    <edge source="whale" target="one">
+      <data key="d0">nummod</data>
+      <data key="d1">9</data>
+    </edge>
+    <edge source="whale" target="large">
+      <data key="d0">amod</data>
+      <data key="d1">8</data>
+    </edge>
+    <edge source="whale" target="stricken">
+      <data key="d0">amod</data>
+      <data key="d1">7</data>
+    </edge>
+    <edge source="whale" target="with">
+      <data key="d0">prep</data>
+      <data key="d1">6</data>
+    </edge>
+    <edge source="whale" target="drug">
+      <data key="d0">amod</data>
+      <data key="d1">6</data>
+    </edge>
+    <edge source="whale" target="head">
+      <data key="d0">amod</data>
+      <data key="d1">6</data>
+    </edge>
+    <edge source="whale" target="particular">
+      <data key="d0">amod</data>
+      <data key="d1">5</data>
+    </edge>
+    <edge source="whale" target="on">
+      <data key="d0">prep</data>
+      <data key="d1">5</data>
+    </edge>
+    <edge source="whale" target="small">
+      <data key="d0">amod</data>
+      <data key="d1">5</data>
+    </edge>
+    <edge source="whale" target="as">
+      <data key="d0">prep</data>
+      <data key="d1">5</data>
+    </edge>
+    <edge source="whale" target="such">
+      <data key="d0">predet</data>
+      <data key="d1">5</data>
+    </edge>
+    <edge source="whale" target="wondrous">
+      <data key="d0">amod</data>
+      <data key="d1">4</data>
+    </edge>
+    <edge source="whale" target="sized">
+      <data key="d0">amod</data>
+      <data key="d1">4</data>
+    </edge>
+    <edge source="whale" target="live">
+      <data key="d0">amod</data>
+      <data key="d1">4</data>
+    </edge>
+    <edge source="whale" target="more">
+      <data key="d0">amod</data>
+      <data key="d1">4</data>
+    </edge>
+    <edge source="whale" target="oh">
+      <data key="d0">intj</data>
+      <data key="d1">4</data>
+    </edge>
+    <edge source="whale" target="same">
+      <data key="d0">amod</data>
+      <data key="d1">4</data>
+    </edge>
+    <edge source="whale" target="his">
+      <data key="d0">poss</data>
+      <data key="d1">4</data>
+    </edge>
+    <edge source="whale" target="three">
+      <data key="d0">nummod</data>
+      <data key="d1">4</data>
+    </edge>
+    <edge source="whale" target="two">
+      <data key="d0">nummod</data>
+      <data key="d1">3</data>
+    </edge>
+    <edge source="whale" target="my">
+      <data key="d0">poss</data>
+      <data key="d1">3</data>
+    </edge>
+    <edge source="whale" target="blasted">
+      <data key="d0">amod</data>
+      <data key="d1">3</data>
+    </edge>
+    <edge source="whale" target="folio">
+      <data key="d0">compound</data>
+      <data key="d1">3</data>
+    </edge>
+    <edge source="whale" target="mighty">
+      <data key="d0">amod</data>
+      <data key="d1">3</data>
+    </edge>
+    <edge source="whale" target="like">
+      <data key="d0">prep</data>
+      <data key="d1">3</data>
+    </edge>
+    <edge source="whale" target="dat">
+      <data key="d0">compound</data>
+      <data key="d1">3</data>
+    </edge>
+    <edge source="whale" target="himself">
+      <data key="d0">appos</data>
+      <data key="d1">3</data>
+    </edge>
+    <edge source="whale" target="first">
+      <data key="d0">amod</data>
+      <data key="d1">3</data>
+    </edge>
+    <edge source="whale" target="bone">
+      <data key="d0">compound</data>
+      <data key="d1">3</data>
+    </edge>
+    <edge source="whale" target="ship">
+      <data key="d0">dobj</data>
+      <data key="d1">3</data>
+    </edge>
+    <edge source="whale" target="grinning">
+      <data key="d0">compound</data>
+      <data key="d1">3</data>
+    </edge>
+    <edge source="whale" target="all">
+      <data key="d0">predet</data>
+      <data key="d1">3</data>
+    </edge>
+    <edge source="whale" target="thou">
+      <data key="d0">amod</data>
+      <data key="d1">3</data>
+    </edge>
+    <edge source="whale" target="pursue">
+      <data key="d0">relcl</data>
+      <data key="d1">3</data>
+    </edge>
+    <edge source="whale" target="whalebone">
+      <data key="d0">compound</data>
+      <data key="d1">3</data>
+    </edge>
+    <edge source="whale" target="hat">
+      <data key="d0">amod</data>
+      <data key="d1">3</data>
+    </edge>
+    <edge source="whale" target="four">
+      <data key="d0">nummod</data>
+      <data key="d1">3</data>
+    </edge>
+    <edge source="whale" target="fly">
+      <data key="d0">amod</data>
+      <data key="d1">3</data>
+    </edge>
+    <edge source="whale" target="young">
+      <data key="d0">amod</data>
+      <data key="d1">3</data>
+    </edge>
+    <edge source="whale" target="grow">
+      <data key="d0">amod</data>
+      <data key="d1">3</data>
+    </edge>
+    <edge source="whale" target="full">
+      <data key="d0">amod</data>
+      <data key="d1">3</data>
+    </edge>
+    <edge source="whale" target="noble">
+      <data key="d0">amod</data>
+      <data key="d1">3</data>
+    </edge>
+    <edge source="sperm" target="great">
+      <data key="d0">amod</data>
+      <data key="d1">2</data>
+    </edge>
+    <edge source="sperm" target="living">
+      <data key="d0">compound</data>
+      <data key="d1">1</data>
+    </edge>
+    <edge source="sperm" target="live">
+      <data key="d0">compound</data>
+      <data key="d1">1</data>
+    </edge>
+    <edge source="sperm" target="portly">
+      <data key="d0">advmod</data>
+      <data key="d1">1</data>
+    </edge>
+    <edge source="sperm" target="right">
+      <data key="d0">conj</data>
+      <data key="d1">1</data>
+    </edge>
+    <edge source="of" target="magnitude">
+      <data key="d0">pobj</data>
+      <data key="d1">3</data>
+    </edge>
+    <edge source="of" target="bigness">
+      <data key="d0">pobj</data>
+      <data key="d1">1</data>
+    </edge>
+    <edge source="of" target="course">
+      <data key="d0">pobj</data>
+      <data key="d1">1</data>
+    </edge>
+    <edge source="of" target="hour">
+      <data key="d0">pobj</data>
+      <data key="d1">1</data>
+    </edge>
+    <edge source="of" target="day">
+      <data key="d0">pobj</data>
+      <data key="d1">1</data>
+    </edge>
+    <edge source="of" target="foot">
+      <data key="d0">pobj</data>
+      <data key="d1">1</data>
+    </edge>
+    <edge source="of" target="stubb">
+      <data key="d0">pobj</data>
+      <data key="d1">1</data>
+    </edge>
+    <edge source="of" target="two">
+      <data key="d0">pobj</data>
+      <data key="d1">1</data>
+    </edge>
+    <edge source="of" target="whaleman">
+      <data key="d0">pobj</data>
+      <data key="d1">1</data>
+    </edge>
+    <edge source="of" target="americans">
+      <data key="d0">pobj</data>
+      <data key="d1">1</data>
+    </edge>
+    <edge source="of" target="english">
+      <data key="d0">pobj</data>
+      <data key="d1">1</data>
+    </edge>
+    <edge source="of" target="to">
+      <data key="d0">pobj</data>
+      <data key="d1">1</data>
+    </edge>
+    <edge source="of" target="sea">
+      <data key="d0">pobj</data>
+      <data key="d1">1</data>
+    </edge>
+    <edge source="of" target="sibbald">
+      <data key="d0">pobj</data>
+      <data key="d1">1</data>
+    </edge>
+    <edge source="of" target="order">
+      <data key="d0">pobj</data>
+      <data key="d1">1</data>
+    </edge>
+    <edge source="of" target="specie">
+      <data key="d0">pobj</data>
+      <data key="d1">1</data>
+    </edge>
+    <edge source="greenland" target="right">
+      <data key="d0">conj</data>
+      <data key="d1">1</data>
+    </edge>
+    <edge source="in" target="sea">
+      <data key="d0">pobj</data>
+      <data key="d1">2</data>
+    </edge>
+    <edge source="in" target="chapter">
+      <data key="d0">pobj</data>
+      <data key="d1">1</data>
+    </edge>
+    <edge source="in" target="security">
+      <data key="d0">pobj</data>
+      <data key="d1">1</data>
+    </edge>
+    <edge source="in" target="particular">
+      <data key="d0">amod</data>
+      <data key="d1">1</data>
+    </edge>
+    <edge source="in" target="length">
+      <data key="d0">pobj</data>
+      <data key="d1">1</data>
+    </edge>
+    <edge source="in" target="kind">
+      <data key="d0">pobj</data>
+      <data key="d1">1</data>
+    </edge>
+    <edge source="in" target="track">
+      <data key="d0">pobj</data>
+      <data key="d1">1</data>
+    </edge>
+    <edge source="in" target="mediterranean">
+      <data key="d0">pobj</data>
+      <data key="d1">1</data>
+    </edge>
+    <edge source="in" target="expression">
+      <data key="d0">pobj</data>
+      <data key="d1">1</data>
+    </edge>
+    <edge source="in" target="attitude">
+      <data key="d0">pobj</data>
+      <data key="d1">1</data>
+    </edge>
+    <edge source="in" target="ocean">
+      <data key="d0">pobj</data>
+      <data key="d1">1</data>
+    </edge>
+    <edge source="in" target="question">
+      <data key="d0">pobj</data>
+      <data key="d1">1</data>
+    </edge>
+    <edge source="one" target="dried">
+      <data key="d0">amod</data>
+      <data key="d1">1</data>
+    </edge>
+    <edge source="one" target="leeward">
+      <data key="d0">relcl</data>
+      <data key="d1">1</data>
+    </edge>
+    <edge source="one" target="windward">
+      <data key="d0">appos</data>
+      <data key="d1">1</data>
+    </edge>
+    <edge source="large" target="very">
+      <data key="d0">advmod</data>
+      <data key="d1">2</data>
+    </edge>
+    <edge source="with" target="head">
+      <data key="d0">pobj</data>
+      <data key="d1">1</data>
+    </edge>
+    <edge source="with" target="baleen">
+      <data key="d0">pobj</data>
+      <data key="d1">1</data>
+    </edge>
+    <edge source="with" target="herd">
+      <data key="d0">pobj</data>
+      <data key="d1">1</data>
+    </edge>
+    <edge source="with" target="hump">
+      <data key="d0">pobj</data>
+      <data key="d1">1</data>
+    </edge>
+    <edge source="with" target="puncture">
+      <data key="d0">pcomp</data>
+      <data key="d1">1</data>
+    </edge>
+    <edge source="with" target="brow">
+      <data key="d0">pobj</data>
+      <data key="d1">1</data>
+    </edge>
+    <edge source="head" target="grey">
+      <data key="d0">npadvmod</data>
+      <data key="d1">2</data>
+    </edge>
+    <edge source="head" target="anvil">
+      <data key="d0">npadvmod</data>
+      <data key="d1">1</data>
+    </edge>
+    <edge source="head" target="pike">
+      <data key="d0">advmod</data>
+      <data key="d1">1</data>
+    </edge>
+    <edge source="head" target="white">
+      <data key="d0">advmod</data>
+      <data key="d1">1</data>
+    </edge>
+    <edge source="on" target="outskirt">
+      <data key="d0">pobj</data>
+      <data key="d1">1</data>
+    </edge>
+    <edge source="on" target="larboard">
+      <data key="d0">pobj</data>
+      <data key="d1">1</data>
+    </edge>
+    <edge source="on" target="coast">
+      <data key="d0">pobj</data>
+      <data key="d1">1</data>
+    </edge>
+    <edge source="on" target="banks">
+      <data key="d0">pobj</data>
+      <data key="d1">1</data>
+    </edge>
+    <edge source="on" target="side">
+      <data key="d0">pobj</data>
+      <data key="d1">1</data>
+    </edge>
+    <edge source="small" target="though">
+      <data key="d0">advmod</data>
+      <data key="d1">1</data>
+    </edge>
+    <edge source="as" target="dish">
+      <data key="d0">pobj</data>
+      <data key="d1">1</data>
+    </edge>
+    <edge source="as" target="specie">
+      <data key="d0">pobj</data>
+      <data key="d1">1</data>
+    </edge>
+    <edge source="as" target="providential">
+      <data key="d0">pobj</data>
+      <data key="d1">1</data>
+    </edge>
+    <edge source="sized" target="good">
+      <data key="d0">amod</data>
+      <data key="d1">1</data>
+    </edge>
+    <edge source="live" target="by">
+      <data key="d0">prep</data>
+      <data key="d1">1</data>
+    </edge>
+    <edge source="live" target="systematically">
+      <data key="d0">advmod</data>
+      <data key="d1">1</data>
+    </edge>
+    <edge source="live" target="who">
+      <data key="d0">nsubj</data>
+      <data key="d1">1</data>
+    </edge>
+    <edge source="same" target="self">
+      <data key="d0">npadvmod</data>
+      <data key="d1">1</data>
+    </edge>
+    <edge source="like" target="patron">
+      <data key="d0">pobj</data>
+      <data key="d1">1</data>
+    </edge>
+    <edge source="like" target="bone">
+      <data key="d0">pobj</data>
+      <data key="d1">1</data>
+    </edge>
+    <edge source="like" target="man">
+      <data key="d0">pobj</data>
+      <data key="d1">1</data>
+    </edge>
+    <edge source="ship" target="fall">
+      <data key="d0">relcl</data>
+      <data key="d1">1</data>
+    </edge>
+    <edge source="ship" target="in">
+      <data key="d0">prep</data>
+      <data key="d1">1</data>
+    </edge>
+    <edge source="all" target="nearly">
+      <data key="d0">advmod</data>
+      <data key="d1">1</data>
+    </edge>
+    <edge source="all" target="almost">
+      <data key="d0">advmod</data>
+      <data key="d1">1</data>
+    </edge>
+    <edge source="pursue" target="long">
+      <data key="d0">advmod</data>
+      <data key="d1">2</data>
+    </edge>
+    <edge source="pursue" target="in">
+      <data key="d0">prep</data>
+      <data key="d1">1</data>
+    </edge>
+    <edge source="pursue" target="fisherman">
+      <data key="d0">nsubj</data>
+      <data key="d1">1</data>
+    </edge>
+    <edge source="grow" target="full">
+      <data key="d0">amod</data>
+      <data key="d1">1</data>
+    </edge>
+  </graph>
+</graphml>
