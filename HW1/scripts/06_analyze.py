@@ -8,7 +8,7 @@ HERE = Path(__file__).resolve().parent
 OUT = HERE.parent / "output"
 
 G = nx.read_graphml(OUT / "graph_whale.graphml")
-U = G.to_undirected()               # standard for community detection
+U = G.to_undirected()
 
 print(f"nodes={G.number_of_nodes()}, edges={G.number_of_edges()}")
 print(f"density (directed):   {nx.density(G):.4f}")
