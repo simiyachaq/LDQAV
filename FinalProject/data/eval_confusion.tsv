@@ -1,0 +1,17 @@
+representation	algorithm	cluster	true_label	count
+tfidf	kmeans	0	nonposs	23
+tfidf	kmeans	0	poss	0
+tfidf	kmeans	1	nonposs	40
+tfidf	kmeans	1	poss	86
+tfidf	agglomerative	0	nonposs	62
+tfidf	agglomerative	0	poss	83
+tfidf	agglomerative	1	nonposs	1
+tfidf	agglomerative	1	poss	3
+contextual	kmeans	0	nonposs	56
+contextual	kmeans	0	poss	1
+contextual	kmeans	1	nonposs	7
+contextual	kmeans	1	poss	85
+contextual	agglomerative	0	nonposs	62
+contextual	agglomerative	0	poss	86
+contextual	agglomerative	1	nonposs	1
+contextual	agglomerative	1	poss	0

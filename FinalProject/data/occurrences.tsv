@@ -1,0 +1,150 @@
+hit_id	article_id	source	year	LABEL	COMPLEMENT_TYPE	sentence_id	target_token_idx
+H00001	128	shan_news	2024	poss	full_np	11	44
+H00002	249	shan_news	2024	poss	full_np	2	30
+H00003	249	shan_news	2024	poss	full_np	3	22
+H00004	256	shan_news	2024	poss	full_np	6	27
+H00005	322	shan_news	2024	poss	full_np	1	22
+H00006	322	shan_news	2024	poss	full_np	1	27
+H00007	335	shan_news	2024	nonposs		20	36
+H00008	506	shan_news	2024	nonposs		2	31
+H00009	506	shan_news	2024	nonposs		7	23
+H00010	612	shan_news	2024	poss	full_np	22	46
+H00011	656	shan_news	2024	nonposs		11	4
+H00012	688	shan_news	2023	poss	full_np	0	45
+H00013	688	shan_news	2023	poss	full_np	1	37
+H00014	742	shan_news	2023	nonposs		32	24
+H00015	775	shan_news	2023	poss	full_np	1	21
+H00016	775	shan_news	2023	poss	full_np	2	28
+H00017	780	shan_news	2023	poss	full_np	13	19
+H00018	780	shan_news	2023	poss	full_np	14	8
+H00019	856	shan_news	2023	nonposs		0	15
+H00020	856	shan_news	2023	nonposs		9	30
+H00021	894	shan_news	2023	nonposs		29	9
+H00022	962	shan_news	2023	nonposs		7	40
+H00023	1019	shan_news	2023	poss	full_np	9	31
+H00024	1024	shan_news	2023	poss	full_np	1	10
+H00025	1147	shan_news	2023	poss	full_np	1	2
+H00026	1218	shan_news	2023	poss	full_np	2	27
+H00027	1415	shan_news	2023	poss	full_np	3	3
+H00028	1482	shan_news	2023	poss	full_np	1	12
+H00029	1484	shan_news	2023	poss	full_np	1	11
+H00030	1484	shan_news	2023	poss	full_np	8	24
+H00031	1510	shan_news	2023	poss	full_np	7	28
+H00032	1522	shan_news	2023	poss	full_np	2	17
+H00033	1522	shan_news	2023	poss	full_np	17	6
+H00034	1562	shan_news	2023	poss	full_np	1	19
+H00035	1590	shan_news	2023	poss	full_np	15	75
+H00036	1590	shan_news	2023	poss	full_np	15	101
+H00037	1763	shan_news	2023	poss	full_np	0	40
+H00038	1763	shan_news	2023	poss	full_np	8	39
+H00039	1796	shan_news	2023	poss	full_np	0	19
+H00040	1955	shan_news	2023	poss	full_np	0	21
+H00041	2054	shan_news	2023	poss	full_np	0	61
+H00042	2054	shan_news	2023	poss	full_np	14	29
+H00043	2069	shan_news	2023	poss	full_np	7	4
+H00044	2181	shan_news	2023	poss	full_np	1	13
+H00045	2283	shan_news	2023	nonposs		5	18
+H00046	2286	shan_news	2023	nonposs		1	4
+H00047	2286	shan_news	2023	nonposs		5	1
+H00048	2305	shan_news	2023	nonposs		1	58
+H00049	2360	shan_news	2023	nonposs		0	17
+H00050	2509	shan_news	2022	poss	full_np	13	27
+H00051	2726	shan_news	2022	nonposs		8	3
+H00052	2816	shan_news	2022	nonposs		0	23
+H00053	2932	shan_news	2022	nonposs		18	14
+H00054	2944	shan_news	2022	nonposs		12	14
+H00055	2970	shan_news	2022	nonposs		6	3
+H00056	2993	shan_news	2022	nonposs		8	11
+H00057	3095	shan_news	2022	nonposs		5	26
+H00058	3096	shan_news	2022	poss	full_np	1	55
+H00059	3129	shan_news	2022	poss	full_np	25	19
+H00060	3287	shan_news	2022	nonposs		17	14
+H00061	3302	shan_news	2022	poss	full_np	12	45
+H00062	3345	shan_news	2022	poss	full_np	9	38
+H00063	3388	shan_news	2022	poss	full_np	13	8
+H00064	3506	shan_news	2022	poss	full_np	0	19
+H00065	3506	shan_news	2022	poss	full_np	1	49
+H00066	3550	shan_news	2022	poss	full_np	1	37
+H00067	3588	shan_news	2022	poss	full_np	8	323
+H00068	3613	shan_news	2022	poss	full_np	11	2
+H00069	3616	shan_news	2022	nonposs		9	12
+H00070	3640	shan_news	2022	nonposs		1	37
+H00071	3648	shan_news	2022	nonposs		3	26
+H00072	3648	shan_news	2022	nonposs		24	14
+H00073	3710	shan_news	2022	nonposs		18	24
+H00074	3710	shan_news	2022	poss	full_np	36	50
+H00075	3784	shan_news	2022	nonposs		10	15
+H00076	3891	shan_news	2022	nonposs		3	7
+H00077	3932	shan_news	2022	nonposs		0	45
+H00078	3935	shan_news	2022	poss	full_np	0	23
+H00079	3995	shan_news	2021	poss	full_np	4	20
+H00080	3995	shan_news	2021	poss	full_np	14	28
+H00081	4050	shan_news	2021	nonposs		10	3
+H00082	4069	shan_news	2021	poss	full_np	6	14
+H00083	4069	shan_news	2021	poss	full_np	17	22
+H00084	4140	shan_news	2021	nonposs		9	10
+H00085	4174	shan_news	2021	nonposs		5	3
+H00086	4177	shan_news	2021	nonposs		6	18
+H00087	4263	shan_news	2021	poss	full_np	1	48
+H00088	4298	shan_news	2021	nonposs		1	70
+H00089	4301	shan_news	2021	poss	full_np	0	6
+H00090	4301	shan_news	2021	poss	full_np	1	30
+H00091	4434	shan_news	2021	poss	full_np	29	5
+H00092	4434	shan_news	2021	poss	full_np	41	14
+H00093	4554	shan_news	2021	nonposs		13	7
+H00094	4595	shan_news	2021	poss	full_np	2	44
+H00095	4668	shan_news	2021	nonposs		15	1
+H00096	4790	shan_news	2021	poss	full_np	0	23
+H00097	4790	shan_news	2021	nonposs		21	34
+H00098	4802	shan_news	2021	nonposs		2	3
+H00099	4842	shan_news	2021	poss	full_np	3	12
+H00100	5038	shan_news	2021	poss	full_np	4	29
+H00101	5038	shan_news	2021	poss	full_np	21	22
+H00102	5059	shan_news	2021	nonposs		3	39
+H00103	5167	shan_news	2021	poss	full_np	18	2
+H00104	5167	shan_news	2021	nonposs		22	0
+H00105	5181	shan_news	2021	poss	full_np	43	38
+H00106	5181	shan_news	2021	poss	full_np	47	8
+H00107	5404	shan_news	2020	poss	full_np	11	36
+H00108	5494	shan_news	2020	poss	full_np	21	4
+H00109	5671	shan_news	2020	nonposs		3	42
+H00110	5699	shan_news	2020	poss	full_np	17	8
+H00111	5838	shan_news	2020	nonposs		4	39
+H00112	5844	shan_news	2020	poss	full_np	19	6
+H00113	5893	shan_news	2020	nonposs		13	1
+H00114	5987	shan_news	2020	poss	full_np	5	14
+H00115	6023	shan_news	2020	poss	full_np	2	11
+H00116	6023	shan_news	2020	poss	full_np	10	34
+H00117	6068	shan_news	2020	nonposs		3	11
+H00118	6108	shan_news	2020	poss	full_np	2	26
+H00119	6115	shan_news	2020	poss	full_np	2	2
+H00120	6177	shan_news	2020	nonposs		12	4
+H00121	6225	shan_news	2020	nonposs		7	22
+H00122	6339	shan_news	2020	nonposs		5	23
+H00123	6452	shan_news	2020	nonposs		6	18
+H00124	6578	shan_news	2020	poss	full_np	5	2
+H00125	6725	shan_news	2020	poss	full_np	17	7
+H00126	6756	shan_news	2020	poss	full_np	40	13
+H00127	6791	shan_news	2020	poss	full_np	5	13
+H00128	6856	shan_news	2020	poss	full_np	3	12
+H00129	6856	shan_news	2020	poss	full_np	33	40
+H00130	7075	shan_news	2020	nonposs		11	34
+H00131	7185	shan_news	2019	nonposs		9	13
+H00132	7225	shan_news	2019	nonposs		10	23
+H00133	7225	shan_news	2019	poss	full_np	16	7
+H00134	7331	shan_news	2019	poss	full_np	13	12
+H00135	7398	shan_news	2019	nonposs		0	34
+H00136	7398	shan_news	2019	nonposs		6	24
+H00137	7531	shan_news	2019	nonposs		6	16
+H00138	7531	shan_news	2019	poss	full_np	7	7
+H00139	7690	shan_news	2019	nonposs		17	12
+H00140	7724	shan_news	2019	poss	full_np	9	3
+H00141	7885	shan_news	2019	nonposs		30	10
+H00142	7885	shan_news	2019	nonposs		33	1
+H00143	7913	shan_news	2019	nonposs		4	38
+H00144	7916	shan_news	2019	nonposs		2	35
+H00145	7938	shan_news	2019	poss	full_np	28	40
+H00146	8104	shan_news	2019	poss	full_np	8	40
+H00147	8289	shan_news	2019	nonposs		0	15
+H00148	8296	shan_news	2019	nonposs		0	26
+H00149	8296	shan_news	2019	nonposs		6	1
